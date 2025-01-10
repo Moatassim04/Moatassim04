@@ -30,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moatassim04&show_icons=true&locale=en" alt="moatassim04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moatassim04&" alt="moatassim04" /></p>
+
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" class="w-36 h-8 sm:w-52 sm:h-12 mr-1 sm:mr-4" alt="buymeacoffee">
+<input id="buy-me-a-coffee" placeholder="buymeacoffee username" class="outline-none placeholder-gray-700 w-32 sm:w-1/2 border-t-0 border-l-0 border-r-0 border solid border-gray-900 py-1 px-1 focus:border-blue-700" value="" fdprocessedid="z7u2d8">
